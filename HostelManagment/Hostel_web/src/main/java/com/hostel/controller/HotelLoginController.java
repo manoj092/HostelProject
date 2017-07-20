@@ -47,6 +47,8 @@ public class HotelLoginController {
 		/*System.out.println("login  controller");
 		Login login = new Login();
 		map.put("Login", login);*/
+		
+		//MANOJ JAISWAL
 		return "Deshboard";
 	}
 	
