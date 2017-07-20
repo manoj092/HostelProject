@@ -1,0 +1,6 @@
+loginservices\HostelDetailService.class
+loginservices\RegistrationServices.class
+adminService\AdminSave.class
+loginservices\LoginServices.class
+adminService\AdminLoginService.class
+loginservices\HostelFindByCatagory.class

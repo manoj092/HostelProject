@@ -1,0 +1,10 @@
+com\hostel\repository\RegistrationRepository.class
+com\hostelModel\Login.class
+com\hostel\repository\LoginRepository.class
+adminRepo\AdminRepo.class
+com\hostelModel\AdminLogin.class
+adminRepo\AdminLoginRepo.class
+com\hostelModel\HostelDetails.class
+com\hostelModel\HostelInfo.class
+com\hostel\repository\HostelDetailRepository.class
+com\hostel\repository\FindByCatagoryId.class

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+ "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN" 
+ "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+	<definition name="baseTemplate" id="baseTemplate"
+		template="/WEB-INF/layout/baseLayout.jsp">
+		<put-attribute name="header" value="/WEB-INF/layout/header.jsp" />
+		<put-attribute name="body" value="${body}" />
+		<put-attribute name="footer" value="/WEB-INF/layout/footer.jsp" />
+</definition>
+<definition name="baseTemplate1" id="baseTemplate1"
+		template="/WEB-INF/layout/baselayout1.jsp">
+		<put-attribute name="header" value="/WEB-INF/layout/header.jsp" />
+		<put-attribute name="body" value="${body}" />
+		<put-attribute name="footer" value="/WEB-INF/layout/footer.jsp" />
+		<put-attribute name="manu" value="/WEB-INF/layout/manu.jsp" />
+	</definition>
+
+
+	<definition name="login" id="login" extends="baseTemplate">
+		<put-attribute name="body" value="/WEB-INF/jsp/login.jsp" />
+	</definition>
+	<definition name="hostelDetails" id="hostelDetails" extends="baseTemplate">
+		<put-attribute name="body" value="/WEB-INF/jsp/hostelDetails.jsp" />
+	</definition>
+	<definition name="Registration" id="Registration" extends="baseTemplate">
+		<put-attribute name="body" value="/WEB-INF/jsp/Registration.jsp" />
+	</definition>
+	
+	<definition name="Deshboard" id="Deshboard" extends="baseTemplate1">
+		<put-attribute name="body" value="/WEB-INF/jsp/Deshboard.jsp" />
+	</definition>
+
+	<definition name="hostels" id="hostels" extends="baseTemplate1">
+		<put-attribute name="body" value="/WEB-INF/jsp/hostels.jsp" />
+	</definition>
+
+	
+</tiles-definitions>

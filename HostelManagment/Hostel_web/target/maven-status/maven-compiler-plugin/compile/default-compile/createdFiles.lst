@@ -1,0 +1,5 @@
+com\hostel\controller\DeshboardController.class
+com\hostel\controller\RegistrationController.class
+com\hostel\controller\WelcomeController.class
+com\hostel\controller\HostelDetailController.class
+com\hostel\controller\HotelLoginController.class
