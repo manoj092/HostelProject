@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="com.hostel.service.LoginService"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="com.hostelModel.Registration"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+<fullyQualifiedTypeName name="org.springframework.validation.BindingResult"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="com.loginservices.HostelFindByCatagory"/>
+<fullyQualifiedTypeName name="com.aartek.repository.HostelDetailRepository"/>
+<fullyQualifiedTypeName name="adminRepo.AdminRepo"/>
+<fullyQualifiedTypeName name="adminRepo.AdminLoginRepo"/>
+<fullyQualifiedTypeName name="com.hostel.repository.HostelDetailRepository"/>
+<fullyQualifiedTypeName name="com.hostel.repository.FindByCatagoryId"/>
+<fullyQualifiedTypeName name="com.hostel.repository.LoginRepository"/>
+<fullyQualifiedTypeName name="com.hostel.repository.RegistrationRepository"/>
+<fullyQualifiedTypeName name="loginservices.HostelFindByCatagory"/>
+<fullyQualifiedTypeName name="loginservices.HostelDetailService"/>
+<fullyQualifiedTypeName name="loginservices.LoginServices"/>
+<fullyQualifiedTypeName name="loginservices.RegistrationServices"/>
+<fullyQualifiedTypeName name="com.hostelModel.Login"/>
+<fullyQualifiedTypeName name="adminService.AdminLoginService"/>
+<fullyQualifiedTypeName name="com.hostelModel.AdminLogin"/>
+<fullyQualifiedTypeName name="adminService.AdminSave"/>
+<fullyQualifiedTypeName name="com.hostelModel.HostelInfo"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+</qualifiedTypeNameHistroy>

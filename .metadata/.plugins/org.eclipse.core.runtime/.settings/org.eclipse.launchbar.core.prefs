@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:HostelManagment,org.eclipse.launchbar.core.descriptorType.default\:HostelManagment (2),org.eclipse.launchbar.core.descriptorType.default\:HostelManagment (1),org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Hostel_Repo,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Hostel_Service,org.eclipse.launchbar.core.descriptorType.default\:Tomcat v8.0 Server at localhost,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:AdminWeb,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Hostel_web
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:HostelManagment\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:HostelManagment\ (2)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:HostelManagment/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Tomcat\ v8.0\ Server\ at\ localhost/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:AdminWeb/activeLaunchMode=run
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:AdminWeb/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.wst.server\:Tomcat v8.0 Server at localhost
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Hostel_Repo/activeLaunchMode=run
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Hostel_Repo/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.wst.server\:Tomcat v8.0 Server at localhost
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Hostel_web/activeLaunchMode=run
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Hostel_web/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.wst.server\:Tomcat v8.0 Server at localhost
